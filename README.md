@@ -1,2 +1,2 @@
 # gerenciamento_usuario
-Gerenciamento de Usuário usancdo CI
+Gerenciamento de Usuário usando CI
